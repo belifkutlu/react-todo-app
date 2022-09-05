@@ -1,3 +1,10 @@
+# DEMO
+[DEMO URL](https://belifkutlu-react-todo-app.netlify.app/)
+
+<!-- ### Desktop Screenshots -->
+
+<!-- ![desktop 1](https://github.com/belifkutlu/segmentify-frontend-case/blob/master/screenshots/desktop.png?raw=true) -->
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
